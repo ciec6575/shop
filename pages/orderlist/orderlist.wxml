@@ -1,0 +1,7 @@
+<text>我已购买过的商品</text>
+<view wx:for = "{{orderlist}}" wx:key = "item">
+<view>
+<text>商品名称:--{{item.title}}</text>
+<text>\n商品价格:--{{item.price}}</text>
+</view>
+</view>

@@ -1,0 +1,14 @@
+<view>
+<input  type = "text" placeholder = "                  请输入您的名字" bindinput="num1" ></input>
+</view>
+<view>
+<input  type = "text" placeholder = "                  请输入您的楼号" bindinput="num1" ></input>
+</view>
+<view>
+<input  type = "number" placeholder = "                 请输入您的宿舍号" bindinput="num1" ></input>
+</view>
+<view>
+<input  type = "number" placeholder = "                请输入您的电话号码" bindinput="num1" ></input>
+</view>
+
+<button bindtap='goumai' data-item='{{item}}' type='warn'>购买</button>

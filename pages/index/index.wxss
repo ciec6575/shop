@@ -1,0 +1,15 @@
+.img{
+  width : 150px;
+  height : 100px;
+  margin-bottom: 5px;
+}
+.item-root{
+  background:yellow;
+  display: flex;
+  margin:  8px;
+  border-bottom: solid 1px gainsboro
+}
+.good-root{
+  display: flex;
+  flex-direction: column;
+}

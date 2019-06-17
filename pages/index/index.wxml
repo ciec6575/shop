@@ -1,0 +1,15 @@
+<text>内师大宠物屋</text>
+<view wx:for = "{{datalist}}" wx key = "itme">
+ <view class = 'item-root '>
+ <image class = 'img'  src = "{{item.pic}}"></image>
+<view class = 'good-root'>
+<text>
+标题：{{item.title}}
+</text>
+<text>
+价格：{{item.price}}元
+</text>
+<button bindtap='xiadan' data-item='{{item}}' type='warn'>下单</button>
+</view>
+ </view>
+</view>

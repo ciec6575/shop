@@ -1,0 +1,7 @@
+/* pages/buy/buy.wxss */
+.item-root{
+  background:yellow;
+  display: flex;
+  margin:  8px;
+  border-bottom: solid 1px gainsboro
+}
