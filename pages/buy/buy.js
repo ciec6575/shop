@@ -17,6 +17,7 @@ Page({
   building(event){
     console.log("用户宿舍号")
   }
+  
 
 
   
