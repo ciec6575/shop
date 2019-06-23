@@ -4,7 +4,7 @@
   margin-bottom: 5px;
 }
 .item-root{
-  background:yellow;
+  background:rgb(166, 186, 216);
   display: flex;
   margin:  8px;
   border-bottom: solid 1px gainsboro
