@@ -2,8 +2,7 @@
   "pages": [
     "pages/index/index",
     "pages/orderlist/orderlist",
-    "pages/buy/buy",
-    "pages/lucky/lucky"
+    "pages/buy/buy"
   ],
   "tabBar": {
     "selectedColor": "#00ff00",
@@ -25,12 +24,6 @@
         "text": "购物车",
         "iconPath": "./images/222.png",
         "selectedIconPath": "./images/tab2n.png"
-      },
-      {
-        "pagePath": "pages/lucky/lucky",
-        "text": "幸运抽奖",
-        "iconPath": "./images/333.png",
-        "selectedIconPath": "./images/333.png"
       }
     ]
   },
